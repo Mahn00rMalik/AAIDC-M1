@@ -3,17 +3,12 @@ import yaml
 from dotenv import load_dotenv
 from pathlib import Path
 from typing import Union, Optional
-from paths import DATA_DIR, BOOK_FPATH, ENV_FPATH
-from langchain_core.documents import Document
-from langchain_community.document_loaders import PyPDFLoader
+
+from paths import DATA_DIR, PUBLICATION_FPATH, ENV_FPATH, GUTENBERG_DATA_DIR
 
 
-
-
-
-
-def load_book(book_external_id="yzN0OCQT7hUS"):
-    """Loads the book markdown file.
+def load_gutenberg_books(book_id="pg3453"):
+    """Loads the book text file.
 
     Returns:
         Content of the book as a string.
@@ -22,7 +17,7 @@ def load_book(book_external_id="yzN0OCQT7hUS"):
         FileNotFoundError: If the file does not exist.
         IOError: If there's an error reading the file.
     """
-    book_fpath = Path(os.path.join(DATA_DIR, f"{book_external_id}.pdf"))
+    book_fpath = Path(os.path.join(GUTENBERG_DATA_DIR, f"{book_id}.txt"))
 
     # Check if file exists
     if not book_fpath.exists():
@@ -30,33 +25,25 @@ def load_book(book_external_id="yzN0OCQT7hUS"):
 
     # Read and return the file content
     try:
-        loader = PyPDFLoader(book_fpath,mode="single")
-        docs = loader.load()
-        doc = docs[0]
+        with open(book_fpath, "r", encoding="utf-8") as file:
+            return file.read()
+    except IOError as e:
+        raise IOError(f"Error reading book file: {e}") from e
 
 
-        return doc
-
-    except Exception as e:
-        
-        raise IOError(f"Error reading PDF file: {e}") from e
-
-
-
-
-def load_all_books(book_dir: str = DATA_DIR) -> list[Document]:
-    """Loads all the book markdown files in the given directory.
+def load_all_gutenberg_books(book_dir: str = GUTENBERG_DATA_DIR) -> list[str]:
+    """Loads all the book text files in the given directory.
 
     Returns:
-        List of book contents.
+        List of books contents.
     """
     books = []
     for book_id in os.listdir(book_dir):
-        if book_id.endswith(".pdf"):
-            books.append(load_book(book_id.replace(".pdf", "")))
+        if book_id.endswith(".txt"):
+            books.append(load_gutenberg_books(book_id.replace(".txt", "")))
     return books
 
-#no issues
+
 def load_yaml_config(file_path: Union[str, Path]) -> dict:
     """Loads a YAML configuration file.
 
@@ -86,7 +73,7 @@ def load_yaml_config(file_path: Union[str, Path]) -> dict:
     except IOError as e:
         raise IOError(f"Error reading YAML file: {e}") from e
 
-#no issues
+
 def load_env(api_key_type="GOOGLE_API_KEY") -> None:
     """Loads environment variables from a .env file and checks for required keys.
 
@@ -103,7 +90,7 @@ def load_env(api_key_type="GOOGLE_API_KEY") -> None:
         api_key
     ), f"Environment variable '{api_key_type}' has not been loaded or is not set in the .env file."
 
-#no issues
+
 def save_text_to_file(
     text: str, filepath: Union[str, Path], header: Optional[str] = None
 ) -> None:

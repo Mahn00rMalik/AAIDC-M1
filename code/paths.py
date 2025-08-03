@@ -15,9 +15,10 @@ OUTPUTS_DIR = os.path.join(ROOT_DIR, "outputs")
 
 DATA_DIR = os.path.join(ROOT_DIR, "data")
 
+GUTENBERG_DATA_DIR = os.path.join(DATA_DIR,"gutenberg")
 
-BOOK_FPATH = os.path.join(DATA_DIR, "book.md")
+PUBLICATION_FPATH = os.path.join(DATA_DIR, "publication.md")
 
 VECTOR_DB_DIR = os.path.join(OUTPUTS_DIR, "vector_db")
 
-CHAT_HISTORY_DB_FPATH = os.path.join(OUTPUTS_DIR, "chat_history.db")
+# CHAT_HISTORY_DB_FPATH = os.path.join(OUTPUTS_DIR, "chat_history.db")

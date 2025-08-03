@@ -130,63 +130,63 @@ def print_prompt_preview(prompt: str, max_length: int = 500) -> None:
     print("=" * 60)
 
 
-def build_system_prompt_from_config(
-    config: Dict[str, Any],
-    publication_content: str = "",
-) -> str:
-    """Builds a system prompt string based on a config dictionary.
+# def build_system_prompt_from_config(
+#     config: Dict[str, Any],
+#     publication_content: str = "",
+# ) -> str:
+#     """Builds a system prompt string based on a config dictionary.
 
-    Args:
-        config: Dictionary specifying system prompt components.
-        publication_content: The publication content to include in the system prompt.
+#     Args:
+#         config: Dictionary specifying system prompt components.
+#         publication_content: The publication content to include in the system prompt.
 
-    Returns:
-        A fully constructed system prompt as a string.
+#     Returns:
+#         A fully constructed system prompt as a string.
 
-    Raises:
-        ValueError: If the required 'role' field is missing.
-    """
-    prompt_parts = []
+#     Raises:
+#         ValueError: If the required 'role' field is missing.
+#     """
+#     prompt_parts = []
 
-    # Role is required for system prompts
-    role = config.get("role")
-    if not role:
-        raise ValueError("Missing required field: 'role'")
-    prompt_parts.append(f"You are {lowercase_first_char(role.strip())}.")
+#     # Role is required for system prompts
+#     role = config.get("role")
+#     if not role:
+#         raise ValueError("Missing required field: 'role'")
+#     prompt_parts.append(f"You are {lowercase_first_char(role.strip())}.")
 
-    # Add behavioral constraints
-    if constraints := config.get("output_constraints"):
-        prompt_parts.append(
-            format_prompt_section(
-                "Follow these important guidelines:", constraints
-            )
-        )
+#     # Add behavioral constraints
+#     if constraints := config.get("output_constraints"):
+#         prompt_parts.append(
+#             format_prompt_section(
+#                 "Follow these important guidelines:", constraints
+#             )
+#         )
 
-    # Add style and tone guidelines
-    if tone := config.get("style_or_tone"):
-        prompt_parts.append(
-            format_prompt_section(
-                "Communication style:", tone
-            )
-        )
+#     # Add style and tone guidelines
+#     if tone := config.get("style_or_tone"):
+#         prompt_parts.append(
+#             format_prompt_section(
+#                 "Communication style:", tone
+#             )
+#         )
 
-    # Add output format requirements
-    if format_ := config.get("output_format"):
-        prompt_parts.append(
-            format_prompt_section("Response formatting:", format_)
-        )
+#     # Add output format requirements
+#     if format_ := config.get("output_format"):
+#         prompt_parts.append(
+#             format_prompt_section("Response formatting:", format_)
+#         )
 
-    # Add goal if specified
-    if goal := config.get("goal"):
-        prompt_parts.append(f"Your primary objective: {goal}")
+#     # Add goal if specified
+#     if goal := config.get("goal"):
+#         prompt_parts.append(f"Your primary objective: {goal}")
 
-    # Include publication content if provided
-    if publication_content:
-        prompt_parts.append(
-            "Base your responses on this publication content:\n\n"
-            "=== PUBLICATION CONTENT ===\n"
-            f"{publication_content.strip()}\n"
-            "=== END PUBLICATION CONTENT ==="
-        )
+#     # Include publication content if provided
+#     if publication_content:
+#         prompt_parts.append(
+#             "Base your responses on this publication content:\n\n"
+#             "=== PUBLICATION CONTENT ===\n"
+#             f"{publication_content.strip()}\n"
+#             "=== END PUBLICATION CONTENT ==="
+#         )
 
-    return "\n\n".join(prompt_parts)
+#     return "\n\n".join(prompt_parts)

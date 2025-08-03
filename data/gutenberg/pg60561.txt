@@ -1,0 +1,2111 @@
+﻿The Project Gutenberg eBook of Mushroom and Toadstools
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Mushroom and Toadstools
+
+Author: Worthington George Smith
+
+Release date: October 24, 2019 [eBook #60561]
+                Most recently updated: October 17, 2024
+
+Language: English
+
+Credits: Produced by Paul Marshall and the Online Distributed
+        Proofreading Team at http://www.pgdp.net (This file was
+        produced from images generously made available by The
+        Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK MUSHROOM AND TOADSTOOLS ***
+
+Transcriber’s Notes:
+
+  Underscores “_” before and after a word or phrase indicate _italics_
+    in the original text.
+  Equal signs “=” before and after a word or phrase indicate =bold=
+    in the original text.
+  Small capitals have been converted to SOLID capitals.
+  Typographical errors have been silently corrected.
+
+
+
+
+                      EDIBLE AND POISONOUS FUNGI.
+
+
+   “O, mickle is the powerful grace, that lies
+    In plants, herbs, stones, and their true qualities;
+    For nought so vile that on the earth doth live,
+    But to the earth some special good doth give.”
+                         ROM. AND JUL., Act II., Sc. 3.
+
+
+                                LONDON:
+             WYMAN AND SONS, PRINTERS, GREAT QUEEN STREET,
+                      LINCOLN’S-INN FIELDS, W.C.
+
+
+
+
+                       MUSHROOMS AND TOADSTOOLS:
+
+                     HOW TO DISTINGUISH EASILY THE
+
+            _Differences between Edible and Poisonous Fungi._
+
+                                 WITH
+                   FIGURES OF TWENTY-NINE EDIBLE AND
+                     THIRTY-ONE POISONOUS SPECIES.
+
+                                  BY
+                 WORTHINGTON G. SMITH, F.L.S., M.A.I.
+
+                           _THIRD EDITION._
+
+                            [Illustration]
+
+                                LONDON:
+                 HARDWICKE AND BOGUE, 192 PICCADILLY.
+                                 1876.
+
+
+
+
+PREFACE.
+
+
+“THE PROOF OF THE _Fungus_ IS IN THE EATING.” I have constantly eaten
+every species figured on the “Edible Sheet,” and many others that are
+not. Few, I imagine, will expect me to have eaten every species on
+the “Poisonous Sheet,” bearing, as they do, such adjective names as
+“gloomy,” “fiery,” “satanical,” “inflaming,” &c.
+
+However, years ago, without a proper guide and with very little
+experience, I more than once became personally acquainted with the
+unpleasant qualities of _one or two dangerous species_, the particulars
+of which will be found in the proper place.
+
+If the following brief descriptions are used in connection with the two
+sheets of drawings, which I have copied from nature and transferred to
+the stones myself (or in reference to the large drawings in the Bethnal
+Green Museum), no one who is capable of distinguishing one thing from
+another need fear making a mistake.
+
+I shall be glad to give information regarding any species forwarded to
+me carriage paid.
+
+                                                        W. G. SMITH.
+    15, MILDMAY GROVE, LONDON, N.
+
+
+
+
+                        INDEX TO POPULAR NAMES.
+
+
+           (E. refers to Edible, and P. to Poisonous Sheet;
+   B.G.M. to the Number of the Drawing in the Bethnal Green Museum.)
+
+     Fig.                                  Page        B.G.M.
+
+    P.  6.  Astringent mushroom             52           582
+    P. 29.  Bitter tube-mushroom            62           617
+    P. 17.  Blood-stained mushroom          57           518
+    P.  1.  Bundled stump-mushroom          50           331
+    E.  4.  Candle clavaria                 24           843
+    E.  8.  Chantarelle                     28           539
+    E. 24.  Clouded mushroom                44            73
+    E. 16.  Curled helvella                 37          1673
+    E. 20.  Edible morel                    41          1668
+    E.  2.    ”   tube-mushroom           22, 62         610
+    P. 21.  Emetic mushroom               27, 59         528
+    E. 28.  Fairy-ring champignon         15, 47         553
+    P. 30.  False champignon              48, 62         550
+    P. 19.    ”   chantarelle               58           540
+    P. 16.  Fetid mushroom                  57           530
+    P.  4.    ”  leather-fungus             51           760
+    P. 31.    ”  wood-witch.                63           914
+    P. 15.  Fiery milk-mushroom             56           500
+    P. 26.    ”   tube-mushroom             61           597
+    E. 10.  Fir-cone mushroom               31             5
+    P. 13.  Fly mushroom                    54             3
+    E.  7.  Furrowed clavaria               28           827
+    E. 25.  Giant puff-ball                 45           930
+              ”   morel                     42
+    P. 10.  Gloomy tube-mushroom            53           607
+    P. 11.  Griping milk-mushroom           53           488
+    E.  9.  Horse mushroom                15, 29         317
+    P. 24.  Incrusted mushroom            40, 60         278
+    E. 18.  Lilac-stemmed mushroom        15, 39          65
+    E. 21.  Liver fungus                    42           716
+    P. 18.  Livid milk-mushroom             58           498
+    P.  9.  Magpie mushroom                 58           379
+    E. 13.  Maned mushroom                  34           374
+    P.  7.  Matrix-bearing mushroom         52             2
+    E.  5.  Meadow mushroom             15, 24, 26       316
+    P.  5.  Olive-gilled mushroom           51           328
+    E. 11.  Orange-milk mushroom          32, 46         502
+    E. 17.  Oyster mushroom                 38           179
+    E. 26.  Pear-milk mushroom              46           508
+    E. 15.  Plum mushroom                   36           225
+    P.  8.  Poisonous spring mushroom       52             1
+    P. 14.  Poisonous forest mushroom       54           212
+    P. 28.  Pungent milk-mushroom           62           505
+    E. 12.  Purple cobweb-mushroom          33           420
+    E.  1.  Red-fleshed mushroom            21             7
+    P.  2.  Red juice-mushroom              50           482
+    P. 12.  Ruddy milk-mushroom             51           512
+    P. 27.  Satanical tube-mushroom         61           606
+    E. 14.  Scaly mushroom                16, 35          13
+    P. 22.  Slimy dung-mushroom             59           327
+    E. 22.  Spine-bearing mushroom          43           718
+    E. 19.  St. George’s mushroom       16, 36, 40        62
+    P. 23.  Sulphury mushroom               60            55
+    P.  3.  Trellised Clathrus              51           917
+    E. 29.  Truffle                       16, 48        1916
+    E.  3.  Variable Mushroom               23           522
+    P. 25.  Verdigris mushroom              60           322
+    E. 23.  Viscid white mushroom           43           470
+    E. 27.  White fir-wood mushroom         46            80
+    E.  6.  Yellow-gilled mushroom          27           536
+    P. 20.  Yellow milk-mushroom            58           503
+
+
+
+
+                      INDEX TO SCIENTIFIC NAMES.
+
+
+     Fig.                                      Page        B.G.M.
+
+    P. 25.  Agaricus æruginosus                 60           322
+    E.  9.      ”    arvensis                 15, 29         317
+                ”    cæsareus                 23, 26
+    E.  5.      ”    campestris             15, 24, 26       316
+    P. 24.      ”    crustuliniformis         40, 60         278
+    E. 27.      ”    dealbatus                  46            80
+                ”    euosmus                    38
+    E.  9.      ”    exquisitus                 29           317
+    P.  1.      ”    fascicularis               50           331
+    P. 14.      ”    sinuatus                   54           212
+    E. 19.      ”    gambosus               16, 36, 40        62
+    P. 13.      ”    muscarius                  54             3
+    E. 24.      ”    nebularis                  44            73
+                ”    nudus                      39
+                ”    odorus                     47
+                ”    orcellus                   36           225
+    E. 17.      ”    ostreatus                  38           179
+    E. 18.      ”    personatus               15, 39          65
+    P.  7.      ”    phalloides                 52
+                ”    pratensis                  25
+    E. 14.      ”    procerus                 16, 35
+    E. 15.      ”    prunulus                   36           225
+                ”    rachodes                   36
+    E.  1.      ”    rubescens                  21             7
+    P. 22.      ”    semiglobatus               59           327
+                ”    silvicola                  25
+    E. 10.      ”    strobiliformis             31             5
+    P.  5.      ”    sublateritius              51           328
+    P. 23.      ”    sulfureus                  60            55
+                ”    vaginatus                  32
+    P.  8.      ”    vernus                     52             1
+                ”    villaticus                 30
+             Boletus æstivalis                  23           612
+                ”    chrysenteron               23
+    E.  2.      ”    edulis                   22, 62         610
+    P. 29.      ”    felleus                    62           617
+    P. 10.      ”    luridus                    53           607
+    P. 26.      ”    piperatus                  61           597
+    P. 27.      ”    Satanas                    61           606
+                ”    scaber                     23           615
+    P. 19.  Cantharellus aurantiacus            58           540
+    E.  8.      ”        cibarius               28           539
+    P.  3.  Clathrus cancellatus                51           917
+            Clavaria coralloides                28
+    E.  7.      ”    rugosa                     28           827
+    E.  4.      ”    vermiculata                24           843
+            Coprinus atramantarius              35
+    E. 13.      ”    comatus                    34           374
+    P.  9.      ”    picaceus                   52           420
+    E. 12.  Cortinarius violacens               33           420
+    E. 21.  Fistulina hepatica                  42           716
+    E. 16.  Helvella crispa                     37          1673
+                ”    lacunosa                   37          1674
+    E. 22.  Hydum repandum                      43           718
+    P.  2.  Hygrophorus conicus                 50           482
+                ”       niveus                  44
+                ”       pratensis               44
+                ”       psittacinus             44
+    E. 23.      ”       virgineus               43           470
+    P. 28.  Lactarius acris                     62           505
+    E. 11.      ”     deliciosus              32, 47         502
+    P. 15.      ”     piperatus                 56           500
+    P. 18.      ”     pyrogalus                 58           498
+    P. 12.      ”     rufus                     54           512
+    P. 20.      ”     theiogalus                58           503
+    P. 11.      ”     torminosus                53           488
+    E. 26.      ”     volemum                   46           508
+    E. 25.  Lycoperdon giganteum                45           930
+    E. 28.  Marasmius oreades                 15, 47         553
+    P. 30.      ”     urens                   48, 62         550
+    E. 20.  Morchella esculenta                 41          1668
+                ”     crassipes                 42
+    P. 6.   Panus stypticus                     52           582
+    P. 31.  Phallus impudicus                   63           914
+    E. 6.   Russula alatacea                    27           536
+    P. 21.      ”   emetica                  27, 59          528
+    P. 16.      ”   fœtens                      57           530
+                ”   furcata                     23
+    E.  3.      ”   heterophylla                23           522
+    P. 17.      ”   sanguinea                   57           518
+                ”   virescens                   24
+    P.  4.  Thelephora palmata                  51           760
+    E. 29.  Tuber æstivum                     16, 48        1916
+              ”  cibarium                       49
+
+
+
+
+INTRODUCTORY OBSERVATIONS.
+
+                                      “...... Oh, who can tell
+    The hidden power of hearbes, and might of magicke spell?”
+                                                     SPENSER.
+
+
+Perhaps no other country can vie with Great Britain in the vast number
+of edible species of fungi that may be gathered during all seasons
+of the year, from one end of the land to the other. The pastures and
+woodlands literally teem with them; they are, however (sad to say),
+little known, sadly neglected, or looked upon with unmerited suspicion.
+The literature, too, of the subject is so small, and the scientific
+part of the study so extremely difficult to begin, that few persons
+dare venture to test the qualities of any fungus except the meadow
+mushroom, and instances are common enough where even this species is
+rejected. It is apparent that no one can be a sure guide to others who
+is not himself a “regular fungus _eater_,” and that no descriptions
+can be of value, or drawings of use, unless they are taken with the
+greatest care from the objects themselves. To the best of my ability,
+I have attempted this, and wish to persuade others to test the rare
+gastronomic qualities of the twenty-nine species figured. The number
+here described and drawn is only a very small portion of the really
+valuable species, for I well know that, as a beginner in the study, I
+made all sorts of mistakes; but, with one exception, I seldom suffered
+much inconvenience, and I even know instances where confessedly
+poisonous species have been eaten without ill effect. A little
+prudence, too often neglected, should be observed in the consumption of
+fungi: for instance, only young, fresh, and sound specimens should be
+gathered for the table—for if stale, semi-putrid, and worm-eaten plants
+are chosen, they are as likely to produce indigestion and inconvenience
+as meat in a similar condition; they should be eaten in moderation, as
+a surfeit of sweet mushrooms is as likely to disarrange one’s digestive
+organs as a surfeit of pastry. If these precautions are attended to,
+and a moderate amount of bread, salt, pepper, and common sense is used,
+no accident need occur. Let the specimens be cooked as soon as possible
+after gathering.
+
+Although the following statement may be difficult to understand, it
+is nevertheless a fact, that many men _do not know what a mushroom is
+at all, but will eat anything_. I will give an instance: A year or
+two ago, a man in the north of England cooked a large batch of what
+he called mushrooms, for supper, and succeeded in poisoning his wife
+and family to _death_, and himself nearly to death. Some of the things
+he cooked were sent to me for identification, and lo! he had gathered
+everything he could lay his hands upon; large and small, sweet and
+foul—off horsedung, and rotten palings, and from wherever he could
+find anything with a stalk and a top to it after the manner of an
+umbrella. When he had buried his family and recovered his own health,
+he carelessly walked into a well, and either killed or much damaged
+himself—I forget which. I mention this to show the sort of men they
+are who poison themselves with mushrooms. They would poison themselves
+with anything else if they had the opportunity; would get under a
+cart-wheel, or do any absurd thing.
+
+The twenty-nine species figured on the “Edible Sheet” are most of them
+abundant, and instantly recognizable when seen, and every one is a
+wholesome and delicious object of food, full of aroma and flavour. I
+invite my readers to partake of the bountiful feast spread in our rich
+pastures and shady woodlands all over the country for all who care to
+partake.
+
+“Mushrooms and Toadstools.”—These two words embrace the whole of the
+knowledge possessed by the people at large regarding the immense
+fungus tribe of this country. If we take the mushroom type of fungus
+as an example, we have some seven hundred species, all possessing a
+certain general similitude of form. This has caused many to look upon
+fungi in common as equivocal productions, difficult or impossible to
+distinguish as permanent species; but when the study is once entered
+upon in earnest, the student will soon perceive that the species, as a
+rule, are marked with great distinctness and permanency, rendering the
+recognition of most of them as certain as in any species of flowering
+plant.
+
+When the study of the whole of the British Fungi is embraced, it is
+true there are many difficulties in the way, for we find some plants
+closely approaching the algæ and others the lichens; but when it is
+only the larger fungi that it is proposed to discriminate, the task is
+much easier, the number being limited to about twelve hundred species.
+If the orders AGARICINI and POLYPOREI (including more than eight of
+the twelve hundred species) are taken as a rough type of the larger
+fungi, it will be seen that these plants consist principally of a stem
+and cap. Unlike the flowering plant, the mushroom has no root; but, in
+place of it, the mycelium, or spawn, from which the fungus springs.
+Under the top are certain gills or plates, tubes, pores or spines, that
+bear the spores (or seeds). These spores are distinguished from true
+seeds by having no embryo, a spore consisting simply of a _two-coated
+cell with no trace of an embryo_. These spores are microscopic
+objects of various forms, sizes, and colours, the produce of one
+plant reaching, it is said, the enormous number of ten millions; when
+they fall upon the earth, or any suitable matrix, they germinate and
+form the spawn which eventually produces an infant fungus, the exact
+counterpart of the original producer of the spores.
+
+We have but one species popularly recognized as esculent—viz., the
+common meadow mushroom (_Agaricus campestris_). A very near ally of
+the “meadow mushroom,” and a most delicious species when fresh,—viz.,
+the so-called “horse mushroom” (_Agaricus arvensis_)—is nearly always
+rejected by country-folks as dangerous. This large and wholesome
+species is the one commonly sold in Covent Garden Market as the true
+mushroom, where, if _fresh_ specimens can be procured, it is a welcome
+addition to the table. The fairy-ring Champignon (certainly one of the
+most exquisitely delicious of all our fungi) is generally neglected,
+or regarded with great suspicion. Under the name of “champillion,”
+however, it is well known to the weavers and labouring men of the east
+of London, who may be seen gathering it in considerable numbers any
+autumn day amongst the short grass of Victoria Park. The fragrant and
+luscious “Chantarelle,” the “rare Morel,” and the sweet and tender
+giant puff-ball, are almost universally _kicked_ aside or altogether
+neglected. Amongst the species _supposed_ to be popular is _Agaricus
+personatus_, said to be sold in Covent Garden Market. I have never seen
+it there, or heard of its presence. In the West of England and some
+other places I have heard these plants called “Blue-its” (Blewits),
+in reference to the blue colour round the upper part of the stem. It
+is a most substantial and delicious species, and should be better
+known; but I imagine it is rather uncommon, as I have seldom gathered
+it; although till quite lately it grew near Highbury Barn. The St.
+George’s mushroom, springing up on our lawns and pastures in spring
+(_Agaricus gambosus_), is little known, and very seldom eaten. Closely
+allied to the _A. personatus_, it is, if possible, more delicious, and
+may be easily dried for winter use. The semi-popular scaly mushroom,
+_Agaricus procerus_ (except to fungologists), is known to very few,
+but its esculent properties are of a very high order, and it has the
+merit of being common. It is said to be sometimes sold in Covent Garden
+Market, but I have never seen it there, neither do I know anyone who
+has. With the truffle, the list must close of such fungi as are now
+and then eaten on exceptional occasions, or may be imperfectly known
+to a few who have not studied the subject. This species appears in
+our markets in limited quantities (there being very little demand for
+it), and realizes from 2_s._ 6_d._ to 5_s._ per pound. The statement
+that they fetch from 15_s._ to 20_s._ per pound in the London markets
+is, I believe, incorrect. It must also be remembered that our English
+truffles do not belong to the same species as the delicious truffles
+sold in the French markets.
+
+There is no other way of distinguishing a poisonous from an edible
+fungus than by finding out its name; there is no magic way of saving
+the trouble of learning, by the insertion of a silver spoon in a
+stew. If, on tasting a fungus, it burns the tongue like the contact
+of scalding water (as several species do), the probability is that it
+is not edible; but if, on the contrary, a species exhales a delicious
+and inviting fragrance resembling fruit, spice, or new flour, it is
+probably worth a trial, and, even _if not_ figured on the “Edible
+Sheet,” may be cautiously tried for the table if so desired.
+
+An important character to be observed in fungi is the presence of a
+volva, or matrix, at the base of the stem (present in figs. 7 and
+8, absent in figs. 11 and 12, Poisonous Sheet), and in the annulus,
+or ring, round the stem towards the top (present in figs. 1 and 7,
+absent in figs. 14 and 15, Poisonous Sheet). In the determination of
+species a great deal depends, too, upon the colour of the spores, or
+seeds. These are readily obtained by removing the stalk of the species
+to be examined, and placing the top gills lowermost on a piece of
+glass. In a few hours the spores will be deposited in a thick dust,
+and will vary (according to the species) from pure white to pink,
+yellow, red, brown, purple, or jet black. The gills often take their
+colours from the spores. It is a very great mistake to imagine that
+the “Sudden Mushroom” grows in a single night. The growth of mushrooms
+takes a considerable time—often many weeks. The young fungi exist
+just beneath or upon the surface of the earth in a compressed and
+narrowed compass. It is during this period that all the cells are
+formed, and the mushroom itself fashioned; but, being in a squeezed
+and concentrated form, it is commonly overlooked. On the advent of
+a wet or humid night, the cells forming the fungus are expanded and
+stretched out, and the mushroom is consequently thrust considerably
+above the surface of the pasture; but, although it is much larger in
+size, it is no heavier, neither has the substance itself considerably
+increased. Mushrooms can be artificially propagated from the seeds or
+spores, but not, generally, during the first season of setting. I have
+frequently grown the fragile and deliquescent species common on manure
+from the seeds; but, even when the spawn is once formed, it is often
+many weeks before the little heads are developed into the true figure
+of the parents, even in the inky, fugitive and deliquescent species.
+_Coprinus atramentarius_ can be readily grown from spores; if planted
+about rotten wood in the autumn, the fungi will appear in the late
+spring, and give two crops a year till the soil is exhausted. I have
+exhibited a cultivated variety of this species at the meetings of the
+Royal Horticultural Society.
+
+I have not thought it necessary to repeat long descriptions of how
+the various species may, or may not, be cooked; it has been done to a
+great extent before. It is apparent that the addition of “good beef
+gravy,” “a few slices of fowl,” “rich veal stuffing,” and various
+other savoury condiments, must occasionally give an extra zest to a
+dish of mushrooms; but broiled, stewed, or pickled, most species are
+“always good alike”; indeed, mushrooms, in their whole composition,
+resemble meat in so remarkable a manner, that any methods of cookery
+in vogue for delicate preparations of meat, apply with equal force
+to mushrooms. Mrs. Hussey and Mr. Cooke each give a large number of
+_récipés_ for preparing these vegetables for the table; and to any
+reader who may wish to go deeper into the culinary branch of fungology,
+I must refer them to these authors. I must confess that I consider
+no preparation of mushrooms can exceed the delicious, inviting, and
+grateful flavour possessed by mushrooms when simply fried with butter,
+salt, and pepper.
+
+The various species suitable for storing up for future use—such as the
+Morel, Champignon, &c.—may be readily dried in a current of air, in a
+sunny window, or in a cool oven, and then kept in tins, or threaded on
+strings and kept in a very dry place. Occasionally this process goes
+a step further, and the mushrooms (of any species) are dried to such
+an extent as to be readily pulverized; the dust is then known and sold
+as “mushroom powder.” Housewives will now and then pickle mushrooms,
+by throwing them into scalding vinegar, allowing them to boil for ten
+minutes or so, and then, by adding cayenne, mace, nutmeg, or spices,
+adapt them to their various tastes.
+
+The liquor extracted from the various edible mushrooms, under
+the name of “ketchup,” is used in every kitchen, and the mode of
+preparation is probably known to all. It simply consists of placing
+the freshly-gathered plants in earthen jars with layers of salt; after
+a few hours the ketchup exudes in abundance from the fungi; and the
+process is ultimately completed by mashing the remains of the mushrooms
+with the hands. It should then be strained and boiled with spice and
+pepper, or strained and bottled, and the corked and scaled bottles
+placed for several hours in boiling water. The ketchup should then be
+kept in a cool and very dry place.
+
+Nearly every species figured on the Edible Sheet will produce ketchup
+of good quality, if treated with salt in an earthen jar. The Champignon
+and Horse Mushroom may be specially referred to as producing this
+condiment of an excellent quality.
+
+The juice exuded from the truffle in boiling is highly relished by
+many, as is the deep blood-red juice that runs from the “liver fungus”
+when cut. This, when seasoned with salt and pepper, and boiled, has a
+very delicious and stimulating flavour.
+
+Since these notes and the following descriptions were written, my
+friend Mr. F. C. Penrose, architect, has sent me a list of twenty-eight
+species he has eaten, most of which are figured on the “Edible Sheet”;
+the other species mentioned by him and not figured on the sheet are
+referred to in the descriptions.
+
+The nomenclature of the species is the same with that given by the
+Rev. M. J. Berkeley in his “Outlines of British Fungology”; the numbers
+inserted after the _scientific_ name refer to my large drawings in the
+Food Department of the Bethnal Green Museum, where, if the student so
+desires, he may see dissections of the species.
+
+[Illustration]
+
+
+
+
+EDIBLE MUSHROOMS.
+
+
+=Red-fleshed Mushroom.= Fig. 1.
+
+(_Agaricus_ [_Amanita_] _rubescens._) 7.
+
+This species is generally abundant in all _woody_ places, making its
+first appearance in early summer and continuing till late in the
+autumn. It is known by its brown warty top, its white gills, and
+perfect ring encircling the bulbous stem. It frequently attains a
+large size, and its whole substance, when touched, bruised, or broken,
+_becomes sienna-red_. This species is one of the most beautiful as well
+as valuable of all the British Agarics. If care be taken to select
+young and fresh specimens only, when prepared for the table, it will
+prove a very light and delicate addition to any meal. Mr. Berkeley does
+not subscribe to the excellence of this species; but as far as my own
+experience and that of many friends go, I _well know it to be delicious
+and perfectly wholesome_. Mr. Penrose writes me: “_Old specimens_ are
+very indigestible.” This I imagine contains the whole secret of its
+questionable name amongst some who have (or have not) tried it.
+
+
+=Edible Tube-Mushroom.= Fig. 2.
+
+(_Boletus edulis._) 610.
+
+Frequently attaining enormous dimensions, and first appearing during
+the summer or early autumn rains, this fungus is one of our commonest
+and most delicious species. Like the last, it grows in woods and
+forests, and may be at once known by the following characters: it is
+generally very stout, with a smooth, umber, cushion-shaped top, tubes
+at first white and ultimately pale yellowish-green; stem whitish-brown,
+marked with a _minute_ white and very elegant reticulated network,
+principally near the top of the ringless stem; when cut or broken, the
+fleshy body of the plant continues pure white. In this, as in every
+other species, sound young specimens should be selected, and it is
+perhaps as well to scrape away the tubes before preparation for the
+table. Whether boiled, stewed with salt, pepper, and butter, fried,
+or roasted with onions and butter, this species proves itself one of
+the most delicious and tender objects of food ever submitted to the
+operation of cooking. It is not the plant referred to by the ancient
+Roman satiric poets; but at Rome (in the present day) this species, in
+company with peaches and _Agaricus cæsareus_, is sold at every street
+corner, our common meadow mushroom, though abundant enough there, being
+disregarded.
+
+_B. scaber_ (615) is sometimes eaten. From personal experience, Mr.
+Penrose says: “Young specimens are good—old, very flat.”
+
+_B. æstivalis_ (612) is of rare excellence; it appears in the early
+summer, sometimes in abundance, at Highgate.
+
+Before I properly knew _B. edulis_, I ate all sorts of _Boleti_ in
+mistake for it, notably _B. chrysenteron_.
+
+
+=Variable Mushroom.= Fig. 3.
+
+(_Russula heterophylla._) 522.
+
+This is a very common species in woods, known by its sweet nutty
+taste; white, rigid, sometimes branched, gills; white flesh; white,
+solid, fleshy, ringless stem; and firm top, variable in colour, which
+is at first convex, at last concave. The colour of the thin viscid
+skin covering the top of the fungus is commonly subdued green, but (as
+its name indicates) the colour is variable: at one time it approaches
+greenish-yellow, or lilac, and at another grey or obscure purple;
+but it is so common and well marked that, with the assistance of the
+figure, there is no fear of mistaking it for anything else. There is
+a _stouter_, more rigid plant, with forked gills and a bitter taste
+(_R. furcata_), that had better be avoided. A third green Russula (_R.
+virescens_), immediately known by its rigid substance, its top broken
+up into large rough emerald-green patches, and with no viscid skin, is
+an excellent addition to the table.
+
+_Russula heterophylla_ is highly esteemed by many, and is certainly one
+of the sweetest and mildest species we have. It is excellent stewed in
+an oven, with salt, pepper, and butter, between two dishes.
+
+
+=Candle Clavaria.= Fig. 4.
+
+(_Clavaria vermiculata._) 843.
+
+This species is frequently very common in pastures and meadows, on
+lawns and by roadsides, in the wet weather of autumn. It grows in
+bundles; is brittle; the clubs are pointed and very _white_. If a few
+bundles be gathered, cleaned, and stewed or broiled, they will form
+a novel and tasty adjunct to any dish, and when once tried will be
+eagerly sought for in future. Coloured _Clavarias_ had better remain
+where found growing, as their gastronomic qualities are doubtful.
+
+
+=Meadow Mushroom.= Fig. 5.
+
+(_Agaricus_ [_Psalliota_] _campestris._) 316.
+
+A large volume might be written about this species, the only one
+popularly recognized in this country as edible. It is common in rich
+meadows everywhere, perhaps all over the world, and varies in a
+remarkable manner, by imperceptible gradations approaching and blending
+with the horse mushroom, fig. 9: its varieties are distinguished by
+five or six different names, but the characters run into each other
+so much, and are frequently so slight and transient, that they are
+often difficult to appreciate. One form is found growing in woods (_A.
+silvicola_). I have often gathered it in the Highgate woods, but from
+its suspicious aspect would not advise its general use; though I have
+frequently eaten it with no ill effect. There is another most beautiful
+variety I have frequently gathered in the meadows on the south side of
+Lord Mansfield’s woods at Hampstead (_A. pratensis_), with a very hairy
+top, the hairs grouped in patches like ermine. When broken, the flesh
+changes to a pale but vivid rose-colour. If possible, this form exceeds
+in excellence and piquancy of flavour the common form of our pastures.
+Several very distinct varieties are cultivated in beds and stoves,
+which occasionally appear in our markets; but none exceed our delicious
+indigenous meadow mushroom, as found in the autumn in rich pastures.
+
+_Bonâ fide_ mushrooms are known by their beautiful pink gills (in which
+state they are best fit for use), ultimately becoming deep brown, and
+not reaching the stem, which stem carries a well-marked white woolly
+ring; by the very fleshy down-covered top, the delicious and enticing
+fragrance and the firm white flesh, sometimes inclined to pink when cut
+or broken: the plant is so well known and so highly esteemed in this
+country that it is hardly necessary to say a word in its favour, or
+repeat methods of preparing it for the table. Butter, spice, parsley,
+sweet herbs, salt, pepper, and sometimes the squeeze of a lemon, appear
+to be in the greatest request; but whether boiled, pickled, stewed,
+fried, or prepared in any other way, it is equally delicious in all. It
+seldom appears in Covent Garden Market; the dealers there are content
+to find a sale, at a high price, for stale horse mushrooms. Much has
+been written at various times regarding the apocryphal “inspector of
+the Roman markets,” who consigns mushrooms to the Tiber, but the facts
+have been much exaggerated. _Agaricus campestris_ is not generally
+appreciated in Italy, is seldom eaten, and never appears in the
+markets, for the simple reason that there would be no sale for it.
+There is an edict in existence ordering certain fungi to be thrown into
+the Tiber, but it is now, and has long been, altogether effete; and
+whilst there is an abundance of _A. cæsareus_ (by some said to be the
+most delicious of all fungi) for the markets of Italy, it is not to be
+expected that the consumption of this latter plant will be given up for
+another and less-known species. It is probable that _Agaricus cæsareus_
+may one day be found in the southern parts of this country; if so, it
+will be known by its smooth _wartless_ crimson top, its yellow gills,
+and stout white stem springing from a large wrapper at the base (like
+fig. 7, Poisonous Sheet).
+
+The ketchup made from the meadow mushroom is, not without reason,
+looked upon as the best, although it may be obtained from many other
+species. I have seen persons gathering fungi for ketchup (to be sold
+in the markets), putting almost anything into their baskets so long as
+the species appeared likely to yield a black juice.
+
+I have known cows to be very fond of mushrooms; and a friend of mine in
+the country (who has more than once seen his cows, in the morning, go
+from mushroom to mushroom till all are consumed) goes regularly over
+his pastures every morning in the autumn, before the cattle are turned
+in, to secure the first gathering of the fungus crop. Sheep, squirrels,
+birds, and many other animals commonly eat raw mushrooms and other
+fungi.
+
+
+=Yellow-gilled Mushroom.= Fig. 6.
+
+(_Russula alutacea._) 536.
+
+This is one of the principal ornaments of our woods in summer and
+autumn, and is readily recognized by its thick gills, which are of a
+subdued but decided buff-yellow colour, and the somewhat viscid red, or
+pale crimson top. The stem is stout, white or rose-colour, ringless,
+and solid; the whole plant fleshy, and frequently very large. The gills
+immediately distinguish it from the emetic mushroom (fig. 21, Poisonous
+Sheet), as in the latter they are pure white, and always remain so;
+there are, too, other great differences between the two species noted
+in the description of the emetic mushroom.
+
+The taste of _Russula alutacea_ is particularly agreeable and mild,
+and, when well prepared for the table, few species prove more
+satisfactory to the consumer. Dr. Badham (by an error) takes some
+exception to it.
+
+
+=Furrowed Clavaria.= Fig. 7.
+
+(_Clavaria rugosa._) 827.
+
+This species, common in woody places, is usually pure white, pale grey,
+or shaded with cream-colour; the clubs are irregular, somewhat wrinkled
+and tough. Treated in the same way as _C. vermiculata_, it will prove
+equally acceptable, agreeable, and novel. All the white-spored species
+are believed to be esculent.
+
+I have not tried _C. coralloides_, an allied species, which is greatly
+branched, but it is esteemed as an esculent.
+
+
+=Chantarelle.= Fig. 8.
+
+(_Cantharellus cibarius._) 539.
+
+The chantarelle cannot be called very common, but it is abundant in
+many districts; its solid, ringless stem, fleshy body, thick swollen
+veins in the place of gills, and brilliant yellow colour, at once serve
+to distinguish it from every other species. “Its smell,” says Berkeley,
+“is like that of ripe apricots.” Sometimes (as I have frequently seen
+in Epping Forest and elsewhere) immense numbers grow together; at
+other times they are very few. Chantarelles often cover a hedge-bank
+where there are trees close by; and wherever they do appear they must
+enlist the admiration of the passer-by, for they look as if made of
+solid gold. When cooked, this species has a rich mushroom-like flavour
+peculiarly its own, and may be prepared for the table in various ways,
+according to the fancy of the consumer: but being big and solid, it
+should be cut up; and, if stewed, allowed to simmer gently, and be
+served with pepper, salt, and butter. There is a curious, thin, pale,
+slender variety, found growing in pastures about old stumps, which I
+have never eaten, and from its curious aspect, habitat, and comparative
+rarity, I think it hardly worth the experiment, but it may be esculent.
+There is a very pale, almost white, variety of the chantarelle, and one
+quite without the apricot odour.
+
+
+=Horse Mushroom.= Fig. 9.
+
+(_Agaricus_ [_Psalliota_] _arvensis._) 317.
+
+This species, the _A. exquisitus_ of Dr. Badham, is very nearly
+allied to the meadow mushroom, and frequently grows with it, but it
+is coarser, and has not the same delicious flavour. It is usually
+much larger, often attaining enormous dimensions; and it turns a
+brownish-yellow as soon as broken or bruised. The top in good specimens
+is smooth and snowy white; the gills are not the pure pink of the
+meadow mushroom, but dirty brownish-white, ultimately becoming brown
+black. It has a big, ragged, floccose ring, and its pithy stem is
+inclined to be hollow. It is _the_ species exposed for sale in Covent
+Garden Market. Indeed, after knowing the market for many years, I have
+rarely seen any other species there; when the true mushroom, however,
+_is_ there, it is frequently mingled with horse mushrooms, which seems
+to show that the dealers do not know one from the other. In the wet
+days of autumn, children, idlers, and beggars go a few miles from town
+into the meadows to gather whatever they can find in the mushroom
+line; they then bring their dirty stock to market, where it is sold to
+fashionable purchasers; stale, vapid, and with no taste but a bad one.
+
+When young and fresh, the horse mushroom is a most desirable addition
+to the bill of fare; it yields an abundant gravy, and the flesh is firm
+and delicious. It is a valuable plant when freshly gathered; but when
+stale it becomes tough and leathery, and without aroma or juice.
+
+There is a curious large, brown, hairy variety, of rather uncommon
+occurrence, similar to the hairy variety of the meadow mushroom,
+the _A. villaticus_ of Dr. Badham (given in error by the Rev. M. J.
+Berkeley as a variety of the meadow mushroom, and since corrected by
+him). It is a splendid plant, but, I think, very rare. I have only seen
+it once.
+
+There is also another large, sienna-red, rank-looking variety, I have
+often gathered in certain situations under trees, &c., that few would
+be tempted to eat; it is probably a luxuriant, overgrown, disagreeable
+thing, that would give one a stomach-ache, and in place of better
+species is not worth experimenting upon.
+
+Many country-folks readily distinguish the meadow from the horse
+mushroom, and have a great antipathy to the latter, although they are
+always willing to put it into the jar as one of the ingredients of
+ketchup. Opinions appear to differ greatly regarding the excellence
+of this species. Mr. Penrose writes—“I think young, and especially
+button specimens of this, very indigestible; until they are well opened
+out, they are unfit for use.” Such, however, I must say, is not my
+experience of button specimens.
+
+There is a strong odour attached both to this fungus and its spawn,
+the ground just below the surface being frequently white with the
+latter. If horsedung be kicked aside in a rich pasture frequented
+by graminivorous animals, the earth will frequently present a snowy
+whiteness from the spawn of this species, from which the young
+individuals may be seen springing up. The specimen figured is not fully
+expanded, but is represented in the condition best for the table.
+
+I once saw a sheep eat a large specimen with great apparent gusto,
+although the fungus was full of maggots.
+
+
+=Fir-cone Mushroom.= Fig. 10.
+
+(_Agaricus_ [_Amanita_] _strobiliformis._) 5.
+
+If colour is left out of the question, no finer species of Agaric
+than this one grows in the country. It attains a very large size in
+well-grown specimens, but is rare. I have but once found it, and
+then it was sprinkled pretty plentifully along the borders of a fir
+plantation in Hampshire, not far from Winchester. The solid compact
+flesh, fine ring, bulbous stem, and patched top, well mark this
+species. The persistent patches on the top are not very unlike the
+scales of a fir-cone, hence its specific name; the gills do not reach
+the stem.
+
+Its undisputed esculent qualities are of a high order, and it is to be
+regretted that its comparative rarity must prevent its being so well
+known and appreciated as its merits deserve. The specimen figured is
+not fully expanded, at which time most fungi are fuller of flavour.
+
+A very common species of _Amanita_ (_A. vaginatus_), said to be
+esculent (and eaten by Mr. Penrose), I have not tried.
+
+
+=Orange-milk Mushroom.= Fig. 11.
+
+(_Lactarius deliciosus._) 502.
+
+There are but few species of the _Lactarius_, or milk-bearing group,
+that can be recommended for culinary purposes. This species, however,
+and fig. 26 are exceptions, and there can be no fear of mistaking the
+orange-milk mushroom for any other species. It is at once known by
+the orange-coloured milk which it exudes on being bruised, cut, or
+broken; this milk soon becoming dull green. The plant is solid, almost
+corky, and the richly-coloured top is commonly, but not always, marked
+with deeper coloured zones, as in the figure. It always grows in fir
+plantations, and I have found it on the Kentish Town side of London,
+almost before the smoke of the city is left behind. It is somewhat
+local, although at times it grows in large numbers, but always amongst
+firs. Like several other excellent species, the taste is at times
+rather sharp when raw.
+
+When cooked with taste and care, it is one of the greatest delicacies
+of the vegetable kingdom, its flesh being more crisp and solid than
+many species.
+
+One or two milk-mushrooms, which had better be avoided, bear
+brimstone-coloured milk, or milk which changes to a brimstone or
+burnt sienna colour; they are figured on the Poisonous Sheet, figs.
+20 and 28; but _Lactarius deliciosus_ can never be mistaken for any
+other plant if the deep orange (or red) and ultimately green milk is
+observed. Figs. 20 and 28 are not peculiar to fir woods.
+
+
+=Purple Cobweb-Mushroom.= Fig. 12.
+
+(_Cortinarius_ [_Inoloma_] _violaceus._) 420.
+
+This is one of the best-marked of all edible fungi, and at the same
+time one of the very best for esculent purposes. It cannot be called
+common, although I have often found it close to London. It appears to
+principally grow in _open places_ in woods. When young, it looks like
+a bright purple silk ball in the grass, and when gathered the bulbous
+stem is almost as large as the top itself. There is always a cottony
+web, like cobweb (which represents the ring), stretching from the edge
+of the pileus to the stem, and this web soon takes its colour from the
+red spores, which are plentifully produced, colouring the gills and
+part of the stalk a red colour, very similar in tint to the rust of
+iron; when cut, the flesh is of a subdued lilac tint, and firm.
+
+Broiled with a steak, this is a most exquisitely rich luxury, much
+resembling the meadow mushroom in flavour, but altogether firmer, and
+more meaty and substantial. I am always glad to find this species, and
+it is next to impossible to mistake it for any other.
+
+
+=Maned Mushroom.= Fig. 13.
+
+(_Coprinus comatus._) 374.
+
+This fungus should be gathered for the table when the gills are white
+or just changing to pink, and before they are black, in which latter
+state (as the plant is ultimately deliquescent), it is unfit for food.
+If I had my choice, I think there is no species I should prefer before
+this one; it is singularly rich, tender, and delicious. Those found
+growing amongst short grass, on lawns, or by roadsides, are best; there
+is one form of it which grows in dirty, sticky places, in brickfields,
+dustyards, &c., that I should not like to recommend. When gathered
+in a rich pasture, it is of snowy whiteness, the top being somewhat
+fleshy, cylindrical, and broken up into white clothy patches; there is
+a white, powdery, fragile ring round the hollow stem, which is soon
+broken, and falls away.
+
+_Coprinus comatus_—the “Agaric of Civilization”—is common in all the
+London parks in October. A closely-allied species, found at the base
+of old stumps and palings, and on the ground (_C. atramentarius_),
+is sometimes eaten. I have not tried it, but Mr. Penrose and several
+friends have a word to say in its favour.
+
+
+=Scaly Mushroom.= Fig. 14.
+
+(_Agaricus_ [_Lepiota_] _procerus._) 13.
+
+Agaricus procerus everywhere enjoys a good reputation, and as it is
+far from uncommon, the lovers of fungi can generally make sure of this
+species for a treat. When or at what time it was ever sold at Covent
+Garden Market, I do not know; for although more than one book says it
+is there displayed for sale, I never saw, or could hear of it. It grows
+in pastures, and is known by its long bulbous spotted stem, by the ring
+that will slip up and down, by the very scaly top, and the gills far
+removed from the insertion of the stalk. When the stem is removed, a
+large hollow socket remains,—just the place to insert a large piece of
+butter in the broiling process, when, with pepper and salt, it forms a
+dish that if once tried must please the most fastidious. I think the
+plants gathered in the pastures are best. I have sometimes found most
+enormous specimens growing in fir plantations, but I do not think them
+equal for the table to the plants which abound in rich meadows. The
+flesh is a little inclined to change colour; and there is an allied
+species, _A. rachodes_, much more _robust_, but often smaller, that
+changes colour to a deep yellowish-brown when broken, and has a smooth
+stem, that cannot be so highly recommended, if it even be wholesome. I
+have generally found it growing on dark and shady hedge-banks, and know
+several persons who have eaten it and speak well of it.
+
+
+=Plum Mushroom.= Fig. 15.
+
+(_Agaricus_ [_Clitopilus_] _prunulus._) 225.
+
+The pure pink gills running considerably down the ringless stem, and
+the fresh and fragrant smell of meal, at once distinguish this species
+from all others. It grows in and near woods in the autumn, evidently
+giving a preference to the open places and borders; the solid stem
+and the very fleshy top are white, or some shade of very pale grey.
+Dr. Badham and some other authors refer to our plant under the name
+of _A. orcellus_, and some botanists consider the true “orcellus”
+and the true “prunulus” distinct but closely allied species. There
+is also a vexatious confusion between this species and fig. 19, St.
+George’s Mushroom (_A. gambosus_). This latter is a spring plant,
+and is frequently and erroneously called _A. prunulus_. They have no
+characters in common, and, in fact, more distinct Agarics do not exist.
+
+Returning to the true Plum Mushroom (fig. 15), I have only to say that,
+however prepared, it is most excellent; the flesh is firm and juicy,
+and full of flavour; and whether broiled, stewed, or however prepared,
+it is a most delicious morsel. I have never seen it in very large
+quantities; it is scattered over the woods north of London, but not in
+profusion.
+
+
+=Curled Helvella.= Fig. 16.
+
+(_Helvella crispa._) 1673.
+
+This singular-looking plant is nearly allied to the true Morel, and
+closely resembles it in flavour. It is hardly possible to mistake it
+for any other species, unless it be the next, which has a black top,
+and is rarer (_H. lacunosa_), 1674, and also esculent. _H. crispa_
+generally grows on shady banks, or on the edges of pastures and lawns,
+and amongst dead leaves, under the shade of trees. I have only once
+seen it near London, and that was in the neighbourhood of Caen Wood,
+Hampstead; sometimes, however, I have found it in immense quantities
+(numbering hundreds of specimens) on rich sloping banks. The stem is
+full of wrinkles and holes, and the top lobed and deflexed in a very
+singular and irregular manner.
+
+If stewed slowly and with care, this species will prove very pleasant
+eating, and will exude a delicious gravy. The flesh is firm and crisp,
+and greatly resembles the Morel. It may be easily dried for future use
+in a current of air, or in a dry place; in this state, specimens are at
+times kept threaded on strings, ready to impart their truly delicious
+flavour to stews and gravies. (See description of fig. 20.)
+
+I once saw a batch of specimens which had suddenly sprung up close to
+some ants’ nests, and thousands of the ants were swarming over and
+examining the fungi, and running in and out of the holes in the stems
+in the most amusing manner.
+
+
+=Oyster Mushroom.= Fig. 17.
+
+(_Agaricus_ [_Pleurotus_] _ostreatus._) 179.
+
+I have always found this far from uncommon species growing on old
+_elm_ trunks, although it is not at all particular as to its habitat,
+often appearing on laburnum, apple, ash, &c. It usually grows in large
+masses, one plant above another, forming a very handsome object on
+old tree-stems. The gills _and spores are white_, the former running
+down the stem, and the top dingy—sometimes nearly white; at others,
+full brown. An allied species, _A. euosmus_, with pale lilac spores,
+and a scent like that of Tarragon (_Artemisia dracunculus_), is “not
+esculent,” and is said to grow in the spring. I commonly find the
+former growing in spring, although it is said usually to grow late in
+the autumn, or winter.
+
+Perhaps a taste for this species has to be acquired; but though it
+is without doubt edible, I have never thought well of it. The flesh
+possesses a certain amount of firmness, and produces an abundant and
+savoury juice; but I am inclined to place it as the species of least
+value for culinary purposes. It has, however, been highly recommended
+by some; and a dish of this species stewed before a very hot fire has
+proved as enjoyable and nourishing “as half a pound of fresh meat.”
+Tastes are allowed to differ; and perhaps the opinion of some of my
+readers may differ from mine if they try this species, which, from its
+peculiar appearance, there is little chance of mistaking for any other.
+
+
+=Lilac-stemmed Mushroom.= Fig. 18.
+
+(_Agaricus_ [_Tricholoma_] _personatus._) 65.
+
+Although this plant at times appears in pastures near London, it is not
+very common. It is very nearly allied to and extremely like the next
+species (fig. 19), from which it is principally distinguished by its
+growing in the autumn, and having a lilac band round the upper part of
+the stem. This lilac stain, however, is not invariably present; and a
+species that is altogether (stem and top too) lilac, or full violet,
+should be avoided (_A. nudus_). The Purple Cobweb-Mushroom (fig.
+12) is easily distinguished by its rust of iron gills. In _Agaricus
+personatus_ they are white—sometimes dirty white; the solid ringless
+stem is rather rough; and the top is smooth, and exceedingly firm and
+fleshy; the plant grows late in the autumn, on downs, and in rich,
+short pastures.
+
+Opinions vary a little regarding the value of this species for
+gastronomic purposes; but I think, if young plants are gathered, in
+_dry weather_, and carefully broiled or stewed, few fungi will prove
+more truly delicious. From my own experience, I have the highest
+opinion of it; but the plant readily absorbs moisture, and during wet
+weather is heavy and of little worth.
+
+As these pages are passing through the press, my friend, Mr. Thomas
+Moore, of the Botanic Garden, Chelsea, informs me that this autumn
+(1874) he saw large quantities of _A. personatus_ exposed for sale
+in the markets of Nottingham, under the name of “blue-bottoms,” the
+vendors stating the fungus to be “as good as mushrooms.”
+
+
+=St. George’s Mushroom.= Fig. 19.
+
+(_Agaricus_ [_Tricholoma_] _gambosus._) 62.
+
+The St. George’s Mushroom is fit for any saint in the calendar. It
+comes up in the spring, near St. George’s Day, when few other species
+are to be found. It is in every part almost white, or with a slight
+inclination to ochre; but sometimes the colour is a little fuller. The
+stem and top are singularly firm, fleshy, and solid, and the latter, in
+hot weather is inclined to split. It grows in rings, on rich lawns and
+pastures, and has a strong, fragrant, enticing odour.
+
+It is a little like _A. crustuliniformis_ (fig. 24, Poisonous Sheet),
+which, however, differs in various ways, principally in discharging
+_brown spores_ instead of _white_, as in _A. gambosus_. The poisonous
+plant has an odour like the flowers of laurel, and _grows in woods in
+the autumn_.
+
+Few species are more substantial and delightful for the table. I (with
+many others) look upon it with unusual favour, as one of the rarest
+delicacies of the vegetable kingdom. Like the last, it is absorbent of
+water, and should be gathered in dry weather. I think it is local, and
+certainly uncommon near London.
+
+It is sometimes erroneously referred to under the name of _A. prunulus_.
+
+
+=Edible Morel.= Fig. 20.
+
+(_Morchella esculenta._) 1668.
+
+I know a wood in Bedfordshire called “Morel Wood,” where, in the
+spring, this rare and delicious fungus _abounds_. It is generally far
+from common, and occurs, perhaps, in greater abundance in the south of
+England. It appears, however, to be pretty well known and in general
+request amongst housewives, north and south, for the truly exquisite
+flavour it imparts to gravies and made dishes; and being readily dried,
+it can be kept for immediate use at any season of the year. The figure
+shows exactly what the Morel is like; the honeycombed pitted top is
+_hollow_, and the almost smooth stem partly so. It yields a delicious
+ketchup; and the hollow top, well stuffed with minced veal, and dressed
+between slices of bacon, is a dish of rare and exquisite flavour.
+
+This notice of the Morel would not be complete without reference to the
+“Giant Morel” (_Morchella crassipes_) found a few years ago in this
+country, for the first time, by my friend Miss Lott, of Barton Hall,
+South Devon. This species, which attains enormous dimensions, is not
+quite so crisp or rapidly dried as the last, but, as an object of food,
+is fully as exquisite for flavouring sauces, and other purposes.
+
+
+=Liver Fungus.= Fig. 21.
+
+(_Fistulina hepatica._) 716.
+
+This singular fungus is not always _common_. It generally grows on
+the trunks of old oaks. I have seen it in immense quantities on the
+ancient oaks of Sherwood Forest, whilst at times oak districts appear
+to be singularly free from its presence. It externally resembles a very
+large tongue or a huge piece of liver lolling out from the tree, and
+when incised a red juice plentifully exudes. It is truly “a vegetable
+beefsteak,” for the taste resembles meat in a remarkable manner. A good
+way of preparing it is to cut it up in thin slices and broil it with a
+steak, and dress with butter, salt, and pepper. There is a slight but
+very perceptible _acid_ flavour with it, which gives considerable zest
+and piquancy to a dish of the “vegetable beefsteak,” as it is called,
+rendering it a “treat for an epicure.”
+
+It rarely grows on any tree but the oak, but I have seen it on the ash,
+beech, and other trees.
+
+
+=Spine-bearing Mushroom.= Fig. 22.
+
+(_Hydnum repandum._) 718.
+
+There is little fear of mistaking this for any other species, as the
+awl-shaped spines on the under surface are a characteristic feature of
+the small genus, _Hydnum_. All the species of any size enjoy a good
+character; _Hydnum repandum_ being the only _common_ plant of the genus.
+
+It is sometimes most abundant in the few woody places remaining at the
+north of London, and may often be found on shady roadsides in the humid
+weather of autumn.
+
+Its taste is slightly pungent when uncooked; but after being submitted
+to the culinary processes of the kitchen, it affords a charming
+addition to the table. Its flesh is very firm and delicious; yet,
+being somewhat dry (like fig. 11), the addition of some sauce or gravy
+lends an additional relish to the stew.
+
+The colour of the fungus is exactly like that of a cracknel; the
+smooth top is frequently irregular, and the pure solid stem often out
+of the centre. The top sometimes partakes of a warmer, almost sienna,
+colouring.
+
+
+=Viscid White Mushroom.= Fig. 23.
+
+(_Hygrophorus virgineus._) 470.
+
+This species, exquisite in form and flavour, is one of the prettiest
+ornaments of our lawns, downs, and short pastures at the fall of the
+year. In these situations it may be found in every part of the kingdom.
+It is essentially waxy, and feels and looks precisely as if made of the
+purest virgin wax. The stem is firm, stuffed, and attenuated, and the
+gills (singularly distant from each other) run far down the stem; it
+changes colour a little when getting old, at which time it is unfit for
+culinary purposes.
+
+A batch of fresh specimens, broiled or stewed with taste and care, will
+prove agreeable, succulent, and flavorous eating, and may sometimes be
+obtained when other species are not to be had.
+
+Several allied species enjoy the reputation of being esculent, notably
+_H. pratensis_ and _H. niveus_; and my friend Mr. F. C. Penrose has
+eaten, and speaks favourably of, _H. psittacinus_—a highly ornamental
+yellow species, with a green stem, sometimes common enough in rich
+pastures (and generally _said_ to be very suspicious).
+
+
+=Clouded Mushroom.= Fig. 24.
+
+(_Agaricus_ [_Clitocybe_] _nebularis._) 78.
+
+Common (in certain places), but rare near London. This species appears
+late in the autumn and generally grows on dead leaves in moist places,
+principally on the borders of woods. The top is lead-colour or grey, at
+first _clouded_ grey,—hence its name; the stem is stout, elastic, and
+striate, with the _white_ gills running considerably down the ringless
+stem, in the manner shown in the drawing.
+
+The gastronomic excellences of the species are well known. When
+gathered, it has a wholesome and powerful odour; and when cooked, the
+firm and fragrant flesh has a particularly agreeable and palatable
+taste.
+
+
+=Giant Puff-ball.= Fig. 25.
+
+(_Lycoperdon giganteum._) 930.
+
+This species of puff-ball is not always a “giant,” and may frequently
+be found no larger than an apple. It is somewhat local, and I think
+only attains gigantic proportions in certain situations. I have, for
+instance, seen specimens growing in rich pastures in Nottinghamshire,
+so much larger than the specimen figured that the latter would appear
+a perfect _dwarf_ beside them. It may be found, in some of the meadows
+near Highgate and Hampstead, quite as big as our figure; but indeed
+there is little fear of a mistake, if attention is paid to the smooth
+skin,—like white kid leather.
+
+Young specimens must be chosen for cooking, such as are firm and
+snow-white, inside and out; for when the fungus is getting ripe and
+yellowish, and dusty inside, or when it is saturated with rain and
+the interior is a mass of yellow decomposition, of course it must be
+rejected.
+
+It is known by its large size, its pure white colour, and its _smooth
+skin_.
+
+To cook this species satisfactorily and well, cut the specimens up into
+slices of half an inch in thickness, remove the skin or bark, dip the
+slices into yolk of egg, and fry in fresh butter. It will then eat with
+a delicate and delicious flavour; or served with jam or jelly it is an
+excellent substitute for pastry.
+
+
+=Pear-Milk Mushroom.= Fig. 26.
+
+(_Lactarius volemum._) 508.
+
+This species is recognized by its very rich coloration, firm flesh,
+mild taste, white milk (changing to a dull dark umber-colour where the
+plant is bruised or broken), white gills becoming warm yellow-buff, and
+the full sienna top; the stem is solid, and the plant grows in woods.
+
+The taste of this plant, when fried, has aptly been compared to lamb’s
+kidney, and resembles in flavour the only other edible Lactarius—viz.
+_L. deliciosus_, fig. 11. It is a rare species in this country.
+
+
+=White Fir-wood Mushroom.= Fig. 27.
+
+(_Agaricus_ [_Clitocybe_] _dealbatus._) 80.
+
+This pretty little fungus commonly grows in, and about the
+neighbourhood of, fir plantations, but will occasionally come up
+elsewhere. Its top is white, smooth, and _exceedingly like ivory_. It
+is shining, waved, fleshy, and inclined to be irregular; the gills are
+thin, white, and run down the stem.
+
+When clean, young, and fresh specimens are broiled with butter, it
+is a delicacy of the very highest degree,—at once tender, juicy, and
+delightful. Its charming flavour is exceeded by very few other fungi.
+
+Several allied species are very good, notably _Agaricus odorus_, which
+exhales a most delicious odour of melilot.
+
+I used to eat all sorts of things for this species before I properly
+knew it, and never felt the worse for the mistakes I made. It would be
+useless to enumerate them all here, without figures and descriptions,
+but one was the common _Agaricus subpulverulentus_.
+
+
+=Fairy-ring Champignon.= Fig. 28.
+
+(_Marasmius oreades._) 553.
+
+If possible, this species is better than the last, and no
+recommendation can be too strong for it. The exquisitely rich and
+delicious flavour of this plant when broiled with butter must be tasted
+to be understood. It is firmer than the meadow mushroom, and, whilst
+having its peculiar aroma, it possesses it in a concentrated form. Even
+Mr. Berkeley, who would be the last man in the world to subscribe to a
+doubtful species, says, “_it is the very best of all our fungi_.” It
+may be pickled, used for ketchup, or dried for future use.
+
+_Marasmius oreades_ grows in rings in short pastures, on downs, and by
+roadsides everywhere (_but never in woods_). It is somewhat tough, the
+solid stem particularly so, the gills wide apart, and cream-coloured.
+
+This species has no downy hairs at the base of the stem. Certain other
+species of _Marasmius_, frequently found growing on dead leaves in
+woods, and possessing this hairy down, are to be avoided. There is a
+poisonous plant sometimes found in similar situations, and often _with_
+the Fairy-Ring Champignon (_M. urens_), fig. 30, Poisonous Sheet. I
+once tested its qualities (by accident). See description.
+
+
+=Truffle.= Fig. 29.
+
+(_Tuber æstivum._) 1916.
+
+The truffle is a subterranean fungus, invariably found under trees,
+often just appearing above the surface of the ground, and occasionally
+exposed for sale in our markets, where it will realize at times as
+much as 5_s._ per pound. The truffle is esteemed by many as the most
+delicious object of food in the whole vegetable kingdom, and by others
+it is looked upon with aversion or positive disgust. The odour is very
+powerful, and is relished by some individuals, and very much disliked
+by others. It is looked upon as a great delicacy boiled, or simply
+roasted in hot ashes.
+
+Besides the truffle sold in Covent Garden Market, there are many other
+species found in this country, of various forms and qualities. _T.
+æstivum_ varies much in size, is irregular in shape, black, rough, and
+warted.
+
+I must confess that, at first, I regarded the truffle with loathing;
+but now I have learned to greatly esteem it. It makes a capital
+ingredient for gravies, stuffings, and meat pies.
+
+It is frequently referred to under the name of _T. cibarium_.
+
+
+
+
+POISONOUS MUSHROOMS.
+
+
+=Bundled Stump-mushroom.= Fig. 1.
+
+(_Agaricus_ [_Hypholoma_] _fascicularis._) 331.
+
+This species occurs everywhere at the bases of old stumps, always
+in groups. The stem is hollow, and the gills are greenish and
+sub-deliquescent. There is a heavy odour attached to it, and the taste
+is bitter and repulsive.
+
+
+=Red Juice-Mushroom.= Fig. 2.
+
+(_Hygrophorus conicus._) 482.
+
+This truly handsome fungus is common in pastures and roadsides. It
+turns purple-black when bruised, broken, or old, and it has a strong
+and very forbidding odour.
+
+It is of a succulent substance, and is not unfrequently a brilliant
+yellow or deep orange, in place of crimson or scarlet.
+
+[Illustration]
+
+
+=Trellised Clathrus.= Fig. 3.
+
+(_Clathrus cancellatus._) 917.
+
+I am indebted to the late Mrs. Gulson, of Eastcliff, near Teignmouth,
+Devon, for the original plant from which this figure was taken. It is
+of extreme beauty and rarity, seldom occurring in this country, but
+common enough in the south of Europe.
+
+The fetor exhaled from this species is highly disagreeable, and can
+be compared with nothing but itself. It is so horribly repulsive and
+loathsome as to make a mere examination of the plant a matter of the
+greatest difficulty. In the young state the odour is less strong, or
+altogether absent.
+
+
+=Fetid Leather-fungus.= Fig. 4.
+
+(_Thelephora palmata._) 760.
+
+This soft fungus bears a distant resemblance to some species of
+Clavaria. It is uncommon, grows upon the ground, and possesses a very
+disagreeable odour.
+
+
+=Olive-gilled Mushroom.= Fig. 5.
+
+(_Agaricus_ [_Hypholoma_] _sublateritius._) 328.
+
+This plant is allied to fig. 1, and, like it, grows upon old stumps in
+woods, and has, too, a disagreeable smell.
+
+
+=Astringent Mushroom.= Fig. 6.
+
+(_Panus stypticus._) 582.
+
+Is very common on old dead trees and stumps in woods, and had better be
+avoided.
+
+
+=Matrix-bearing Mushroom.= Fig. 7.
+
+(_Agaricus_ [_Amanita_] _Phalloides._) 2.
+
+Common everywhere in woods; this handsome Agaric is known to be highly
+dangerous. It is allied to fig. 8, as will be seen by glancing at the
+figures.
+
+All parts are nearly white, excepting the top, which generally takes
+some pale shade of subdued yellow or green.
+
+
+=Poisonous Spring Mushroom.= Fig. 8.
+
+(_Agaricus_ [_Amanita_] _vernus._) 1.
+
+Belonging to a very suspicious group, this Agaric is supposed to be
+very poisonous. It grows in woods, _in the spring_, and is white in all
+its parts.
+
+It is rare, but I have found it close to London.
+
+
+=Magpie Mushroom.= Fig. 9.
+
+(_Coprinus picaceus._) 379.
+
+This, too, is equally rare, though in some places, as in the
+Herefordshire woods, it is by no means infrequent. It is a very
+handsome but suspicious-looking plant, with the top broken up into
+large patches of black and white. It grows on roadsides, and has a
+disagreeable odour.
+
+
+=Gloomy Tube-Mushroom.= Fig. 10.
+
+(_Boletus luridus._) 607.
+
+This is one of the handsomest ornaments of our woods and woody places.
+The prevailing tint is umber, relieved on the under surface by bright
+red, sometimes approaching crimson, or even vermilion; when broken or
+bruised it rapidly changes colour to blue. It is very common in all
+places where there are trees, and often comes up early in the year. It
+is probably more or less poisonous, though I have known it to be eaten
+without _fatal_ effects.
+
+Mr. Penrose once found a specimen as large as a milking-stool, exactly
+three feet in circumference.
+
+
+=Griping Milk-Mushroom.= Fig. 11.
+
+(_Lactarius torminosus._) 488.
+
+This dangerous fungus is at once known by the hairy margin of the top,
+which is rolled inwards. The milk that exudes when the plant is broken
+is acrid and biting, and does not change colour as does fig. 11, Edible
+Sheet, and figs. 20 and 28, Poisonous Sheet.
+
+Though said to be common, I think it is somewhat rare; it now and then
+occurs in solitary specimens in the woods and open places near London.
+
+
+=Ruddy Milk-Mushroom.= Fig. 12.
+
+(_Lactarius rufus._) 512.
+
+This is one of the most deadly of all British fungi, and generally
+grows in fir woods; the white milk is singularly acrid and corrosive,
+which is perhaps its best distinguishing mark. It bears some
+resemblance to fig. 26, Edible Sheet, but the milk of the _L. volemum_
+is mild, and changes colour to dark brown when exposed to the action of
+the air; whilst in _L. rufus_ it remains white, and the milk is highly
+pungent.
+
+
+=Fly Mushroom.= Fig. 13.
+
+(_Agaricus_ [_Amanita_] _muscarius._) 3.
+
+Few fungi can exceed this well-known species in beauty. It is somewhat
+local, and loves birch woods, where it sometimes makes the very ground
+almost scarlet with its profuse growth. Sometimes the top is deep
+yellow or orange, but it is usually brilliant scarlet; if the top skin
+is stripped off, the flesh just beneath is seen to be bright yellow,
+and the rest of the flesh white. It is allied to fig. 1, Edible Sheet,
+but the flesh of the latter is not yellow under the skin; and _A.
+rubescens turns reddish_ in every part as soon as bruised or broken.
+
+
+=Poisonous Forest Mushroom.= Fig. 14.
+
+(_Agaricus_ [_Entoloma_] _sinuatus._) 212.
+
+Without doubt, this is a very poisonous plant, for I once cooked a very
+small piece of a specimen for luncheon, and was very nearly poisoned to
+death thereby.
+
+I did not eat a twentieth part of the specimen gathered—I am sure
+not so much as a quarter of an ounce—and the taste was by no means
+disagreeable. But mark the result. (It must be borne in mind, too,
+that though I fell so dangerously ill, I never till the last moment
+_suspected the fungus_. Such a confirmed toadstool-eater was I, that I
+laid my symptoms to anything but the true cause.)
+
+About a quarter of an hour after luncheon _I left home_, and was
+immediately overtaken by a strange nervous, gloomy, low-spirited
+feeling quite new to me. Soon a severe headache added its charms to my
+feelings, and then swimming of the brain commenced, with violent pains
+in the stomach.
+
+I had now great difficulty to keep upon my legs at all; my senses
+all appeared leaving me, and every object appeared to be moving with
+_death-like stillness_ from side to side, up and down, or round and
+round.
+
+More dead than alive, I soon returned home, and was horrified to find
+_two others_ (whom I had invited to partake of my repast) in exactly
+the same condition as myself. At this moment, and not before, I thought
+of _Agaricus sinuatus_. These two others had suffered precisely as I
+had done, and we all three were apparently dying fast. They, however,
+were attacked by violent vomiting, which I imagine helped to hasten
+their recovery; for after a few days of sickness and nausea (with
+medical assistance) they got well; but it was not so with me; for
+although I had at first the inclination, I had not the strength left
+to vomit. During the latter part of the first day I was, however, so
+continually and fearfully purged, and suffered so much from headache
+and swimming of the brain, that I really thought every moment would be
+my last.
+
+I was very ill for the next four or five days; suffered from loathing
+and lassitude; fell into deep sleep, long and troubled; at times found
+all my joints quite stiff; at others, found everything swimming before
+me; and it was not till a fortnight had elapsed that every bodily
+derangement had left me.
+
+Fig. 14 is a portrait of the plant in question, taken before the
+culinary operations were commenced. No one, after seeing this picture,
+can fail to recognize the thing itself if found. It is large, has dull
+flesh-coloured gills, the top is a little downy, it smells like meal,
+and grows in woods.
+
+It can always be found sparingly in autumn in the woods north of London.
+
+
+=Fiery Milk-Mushroom.= Fig. 15.
+
+(_Lactarius piperatus._) 500.
+
+I imagine there are very few species in this country more dangerous
+than this one. So essentially and powerfully acrid is the milk, that
+if it be allowed to trickle over tender hands it will sting like the
+contact of nettles; and if a drop is placed on the lips or tongue, the
+sensation is like the scalding of boiling water, or the burning of a
+red-hot iron.
+
+It is common in all woods; is particularly firm and solid, but rather
+brittle. In colour it is sometimes as white as snow, at others it
+inclines a little to cream; the milk is white and unchangeable, and
+usually abundant.
+
+
+=Fetid Mushroom.= Fig. 16.
+
+(_Russula fœtens._) 530.
+
+Less rigid than other _Russulæ_, brittle, and sticky in all its parts,
+always slug-eaten, and possessed of a wet insufferable odour that can
+be likened to nothing in nature, this species cannot in reason be
+anything but deleterious and pernicious to human life. Slugs certainly
+highly relish it; for although it is one of our commonest species, yet
+it is invariably much eaten by slugs: frequently the gills are covered
+with these creatures, or are even completely eaten away.
+
+
+=Blood-stained Mushroom.= Fig. 17.
+
+(_Russula sanguinea._) 518.
+
+This acrid species of Russula, sometimes found in woods, is by no
+means uncommon; its well-marked blood-red top and _firm substance_ at
+once distinguish it from other species. The gills are white, and run a
+little down the stem.
+
+
+=Livid Milk-Mushroom.= Fig. 18.
+
+(_Lactarius pyrogalus._) 498.
+
+The highly acrid white milk abundantly exuded from this plant, its
+depressed and zoned top, its peculiar livid coloration and yellowish
+gills, distinguish it from the other milk-mushrooms.
+
+It grows in woods and meadows.
+
+
+=False Chantarelle.= Fig. 19.
+
+(_Cantharellus aurantiacus._) 540.
+
+Is known by its smaller size, its gills being far thinner and more
+crowded than in the true chantarelle; the stem frequently deep umber at
+the base, and the gills or veins darker than the top.
+
+It is a species to be rejected for culinary purposes.
+
+
+=Yellow Milk-Mushroom.= Fig. 20.
+
+(_Lactarius theiogalus._) 503.
+
+This is a beautiful plant, with an odour that is far from disagreeable.
+It is _sometimes_ without the zones on the top which are shown in our
+figure, but it is immediately known by the change of colour which
+takes place in the milk on breaking the fungus; this is at first pure
+white, but in less than a minute the milk turns to a brilliant yellow.
+
+It is not uncommon, and may generally be found at Hampstead in the
+woods; and it is supposed to be poisonous.
+
+
+=Emetic Mushroom.= Fig. 21.
+
+(_Russula emetica._) 528.
+
+This is a magnificent but certainly rare species, but it has a very bad
+name, and is supposed to possess highly dangerous qualities. The skin
+is scarlet, and may be readily peeled off, and then the pink flesh is
+displayed beneath, which is its great characteristic; the gills are
+pure white, and do not reach the stem; the top is highly polished, and
+varies from scarlet and crimson to a faint rose-colour, and may now and
+then be found shaded with purple.
+
+It attains a large size, and loves damp places in woods, and the
+neighbourhood of trees.
+
+
+=Slimy Dung-Mushroom.= Fig. 22.
+
+(_Agaricus_ [_Psalliota_] _semiglobatus._) 327.
+
+This extremely common little sticky Agaric grows in pastures, on dung,
+everywhere; the stem is covered with a glutinous thick slime.
+
+It is regarded as poisonous.
+
+
+=Sulphury Mushroom.= Fig. 23.
+
+(_Agaricus_ [_Tricholoma_] _sulfureus._) 55.
+
+In woody places at the south of London this very disagreeable
+but handsome species now and then puts in an appearance. It has
+a particularly nasty penetrating smell, which has been compared
+with “gas-tar.” The stem is firm, as is the whole plant, and
+sulphur-coloured.
+
+It is probably a very dangerous species, but I have seldom met with it.
+
+
+=Incrusted Mushroom.= Fig. 24.
+
+(_Agaricus_ [_Hebelonia_] _crustuliniformis._) 278.
+
+Growing in woods, this deleterious species is extremely common, and
+without doubt very dangerous. The dirty pale-umber gills, and its
+habitat and time of growth—viz. the autumn—at once distinguish it from
+the delicious _A. gambosus_, fig. 19, Edible Sheet. It has a powerful
+and highly disagreeable odour, and brown spores, and we believe it is
+often mistaken by the ignorant for the true mushroom.
+
+
+=Verdigris Mushroom.= Fig. 25.
+
+(_Agaricus_ [_Psalliota_] _æruginosus._) 322.
+
+The verdigris-green colour of the top of this mushroom is not
+permanent, but consists of green slime that soon gets washed off by the
+rain, flaked with white scales. The stem is hollow, and the top fleshy.
+
+It generally grows about stumps, is a very handsome fungus, and is
+doubtless poisonous.
+
+
+=Fiery Tube-Mushroom.= Fig. 26.
+
+(_Boletus piperatus._) 597.
+
+Never attains a larger size than the specimen on the sheet; indeed it
+is one of the smallest of all the _Boleti_. The taste is highly acrid;
+it is therefore looked upon with grave suspicion, and it is probably a
+very dangerous plant.
+
+It grows in woods, but is rare.
+
+
+=Satanical Tube-Mushroom.= Fig. 27.
+
+(_Boletus Satanas._) 606.
+
+The specimen figured I gathered in Crab-tree Wood, near Winchester,
+during an architectural excursion to St. Cross. I have only once
+seen anything of it elsewhere, though my late friend Mrs. Gulson, of
+Eastcliff, has sent it on to me several times from the neighbourhood of
+Teignmouth.
+
+Without doubt it is by far the most splendid of all the _Boleti_. The
+top is nearly white, very fleshy, and a little viscid; the stem is
+firm, exquisitely coloured, and beautifully reticulated; the under
+surface is brilliant crimson. It usually attains a large size, grows in
+woods, and as soon as broken or bruised, changes to blue.
+
+In all likelihood it is highly poisonous.
+
+
+=Pungent Milk-Mushroom.= Fig. 28.
+
+(_Lactarius acris._) 505.
+
+As its name indicates, this is a very acrid and dangerous fungus. It
+is said to be rare, but I have sometimes known it to be extremely
+abundant in the woods near London. When cut or broken, the flesh and
+white milk change to a dull-sienna red; this distinguishes it from all
+other mushrooms. To observe the change of colour it requires at times a
+little patience; for I have known half an hour, or even an hour, elapse
+before the change of colour is manifest.
+
+
+=Bitter Tube-Mushroom.= Fig. 29.
+
+(_Boletus felleus._) 617.
+
+Said to be rare, but generally abundant in Epping Forest. I have found
+it in abundance in Nottinghamshire, and know it well; it was the first
+Boletus I ever drew, and I was then nearly eating it for _Boletus
+edulis_.
+
+The bitter taste of _B. felleus_, the _flesh-coloured tubes_, the
+flesh-colour of the top when broken, the reticulated stem, and the pink
+spores are the distinguishing marks of this species. It is poisonous.
+
+
+=False Champignon.= Fig. 30.
+
+(_Marasmius urens._) 550.
+
+The more slender habit, the mealy stem, white downy base, and the
+narrower, darker, and crowded gills, distinguish this counterfeit from
+the true champignon (fig. 28, Edible Sheet). It sometimes accompanies
+the latter plant, but with ordinary care can be detected in a moment.
+It grows in _woods_, as well as in pastures and by roadsides.
+
+I think I was once poisoned by it in Bedfordshire. I well remember,
+on my way home late one evening, gathering a quantity of champignons
+for supper; and as it was dark, I imagine I must have gathered both
+species. I did not cook them myself, neither did I examine them after
+they were taken from the basket; but I noticed at supper-time that they
+were unusually hot, and I thought the old woman who cooked them had put
+too much pepper into the stew. I never suspected the fungi.
+
+In about half an hour after partaking of them my head began to ache, my
+brain to swim, and my throat and stomach to burn, as if in contact with
+fire. After being ill for some hours, a terrible fit of purging and
+vomiting set in, which appeared soon to set me to rights; for after a
+day or so I was no worse for it.
+
+
+=Fetid Wood-Witch.= Fig. 31.
+
+(_Phallus impudicus._) 914.
+
+This is a great ornament to our woods, but its truly horrible effluvia
+beggars description; the nasal organs detect its presence at a long
+distance, and when neared the loathsome odour is indescribably
+revolting. Flies, however, appear to highly relish it; for these
+_Phalli_ are invariably covered with flies, who greedily devour the
+odorous and liquid repast found at the top of the stem. It is most
+abundant at woody places in the north of London, all through the summer
+till the late autumn.
+
+Had not this species really been eaten, with several other singular,
+offensive, and dangerous fungi figured on this sheet, it would have
+been hardly necessary to figure or refer to it at all.
+
+THE END.
+
+
+
+
+
+End of Project Gutenberg's Mushroom and Toadstools, by Worthington G. Smith
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK MUSHROOM AND TOADSTOOLS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
